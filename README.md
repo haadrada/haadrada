@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Harry 👋
 
-<!--
-**haadrada/haadrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data scientist and analyst working at the intersection of healthcare and operations. 
+I build ML pipelines, data engineering solutions, and automation tools in my spare time to solve real problems. 
 
-Here are some ideas to get you started:
+Currently joining EY Australia as a Senior Consultant in Supply Chain and Operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+## Projects
+
+**[NHS Diagnostics](https://github.com/haadrada/NHS_Breach_Risk_ML_Pipeline)** — End-to-end ML pipeline predicting NHS diagnostic waiting list breaches 3 months ahead. Includes a Bronze → Silver → Gold dbt/Snowflake pipeline and XGBoost classifier achieving ROC-AUC 0.9428 across 374 NHS providers.
+
+**[NHS Breach Risk Dashboard](https://github.com/haadrada/NHS_Breach_Risk_Dashboard)** — Interactive Streamlit dashboard visualising March 2026 breach predictions across NHS trusts and Integrated Care Boards, integrating NHS ODS and ONS APIs for geolocation and boundary mapping.
+
+**[UHN Lab Automation](https://github.com/haadrada/UHN-ARC-Automation-Project)** — Playwright automation suite replacing manual billing workflows across 5 research sites at University Health Network, packaged as .exe for non-technical staff.
+
+---
+---
+
+## Stack
+`Python` `SQL` `R` `dbt` `Snowflake` `XGBoost` `Streamlit` `Playwright` `AWS`
+
+[Email]: · haroldxue@gmail.com
