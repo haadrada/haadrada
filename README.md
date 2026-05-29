@@ -1,8 +1,6 @@
 # Hi, I'm Harry 👋
 
-I build ML pipelines, data engineering solutions, and automation tools in my spare time. 
-
-Currently joining EY Australia as a Senior Consultant in Supply Chain and Operations.
+I build ML pipelines, data engineering solutions, and automation tools in my spare time. .
 
 ---
 
