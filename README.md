@@ -9,8 +9,6 @@ Currently joining EY Australia as a Senior Consultant in Supply Chain and Operat
 
 ## Projects
 
-## Projects
-
 **[NHS Diagnostics](https://github.com/haadrada/NHS_Breach_Risk_ML_Pipeline)** — End-to-end ML pipeline predicting NHS diagnostic waiting list breaches 3 months ahead. Includes a Bronze → Silver → Gold dbt/Snowflake pipeline and XGBoost classifier achieving ROC-AUC 0.9428 across 374 NHS providers.
 
 **[NHS Breach Risk Dashboard](https://github.com/haadrada/NHS_Breach_Risk_Dashboard)** — Interactive Streamlit dashboard visualising March 2026 breach predictions across NHS trusts and Integrated Care Boards, integrating NHS ODS and ONS APIs for geolocation and boundary mapping.
