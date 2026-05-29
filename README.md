@@ -1,6 +1,6 @@
 # Hi, I'm Harry 👋
 
-I build ML pipelines, data engineering solutions, and automation tools in my spare time.
+I build ML pipelines and data engineering stuff in my spare time. My automation projects have been implemented and utilized at the University Health Network, Toronto Canada. 
 
 ---
 
