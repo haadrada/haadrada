@@ -1,7 +1,6 @@
 # Hi, I'm Harry 👋
 
-Data scientist and analyst working at the intersection of healthcare and operations. 
-I build ML pipelines, data engineering solutions, and automation tools in my spare time to solve real problems. 
+I build ML pipelines, data engineering solutions, and automation tools in my spare time. 
 
 Currently joining EY Australia as a Senior Consultant in Supply Chain and Operations.
 
